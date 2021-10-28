@@ -1,0 +1,310 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.menu{
+    width: 184.7vh;
+    height: 50px;
+    background-color: #BB1919;
+}
+.menu h1 {
+    color: white;
+    font-weight: normal;
+    margin-left: 20px;
+}
+
+.menu2 {
+    width: 184.7vh;
+    height: 42px;
+    background-color: #A91717;
+    margin-top: 1px;
+}
+
+
+.container2 {
+    margin: 10px 0 0 10px;
+    float: left;
+}
+
+.container2:hover {
+    text-decoration: underline;
+}
+.container2 a {
+    text-decoration: none;
+    color: white;
+    margin-left: 14px;
+}
+
+.Article {
+    margin-right: 300px;
+    margin-top: 30px;
+}
+
+.article1 {
+    width: 350px;
+    float: right;
+    font-size: 15px;
+}
+
+.article1 h1 {
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.article1 h1:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.article1 a {
+    text-decoration: none;
+    color: #5a5a5a;
+    font-size: 13px;
+}
+
+.articleImage img {
+    width: 70vh;
+    height: 40vh;
+    margin-left: 120px;
+    float: left;
+}
+
+.sub3 {
+    float: left;
+    width: 150vh;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.subThreeExtra {
+    float: left;
+    width: 200px;
+    margin-left: 45px;
+    padding-right: 10px;
+}
+.subImage img {
+    width: 35vh;
+    height: 20vh;
+}
+
+
+.subPara {
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+    float: left;
+}
+
+.subPara:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.subDate {
+    text-decoration: none;
+    color: #5a5a5a;
+    font-size: 12px;
+    float: left;
+    margin-top: 9px;
+}
+
+.contenedor{
+    margin-top: 70px;
+}
+
+.destacado{
+    width: 350px;
+    margin-left: 120px;
+    font-size: 13px;
+}
+
+.destacado p{
+    font-size: 25px;
+    color: #2c2a2a;
+}
+
+.destacado a{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+.destacado a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.articulo_des h1 {
+    width: 240px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #5a5a5a;
+}
+
+.articulo_des h1:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.articulo_des a {
+    text-decoration: none;
+    color: #5a5a5a;
+    font-size: 13px;
+}
+.destacado img{
+    width: 70vh;
+    height: 40vh;
+    margin-left: 265px;
+    margin-top: -260px;
+    float: left;
+}
+
+.destacado1 {
+    float: right;
+    width: 200px;
+    margin-right: 200px;
+    margin-top: -260px;
+}
+
+.socios{
+    width: 350px;
+    margin-left: 120px;
+}
+
+.socios a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.socios a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.top {
+    float: left;
+    width: 150vh;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.top_list {
+    float: left;
+    width: 65vh;
+    margin-left: 45px;
+    padding-right: 10px;
+}
+
+.list {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #000000;
+    float: left;
+}
+
+.list:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.top_list b{
+    font-size: 50px;
+    color: #A91717;
+}
+
+.inicio {
+    width: 184.7vh;
+    background-color: #BB1919;
+    float: left;
+    margin-left: -10px;
+    margin-top: 25px;
+}
+
+.BBCS {
+    width: 184.7vh;
+    height: 50px;
+    background-color: #2F2F2F;
+    float: left;
+    margin-left: -10px;
+}
+
+.BBCS p{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.BBCS a{
+    color: white;
+    text-decoration: none;
+}
+
+.BBCS p a:hover {
+    text-decoration: underline;
+}
+
+
+.head {
+    color: white;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.contenedor_f {
+    width: 184.7vh;
+    background-color: #2F2F2F;
+    float: left;
+    margin-left: -10px;
+}
+
+.fotter {
+    height: 40px;
+    float: inline-end;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.fotter p a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-right: 200px;  
+}
+
+.fotter p {
+    color: white;
+    font-size: 14px;
+}
+.fotter p a:hover {
+    text-decoration: underline;
+}
+
+.fotter2 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 0px;
+    
+}
+
+.fotter2 p a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-right: 22px;
+}
+
+.fotter2 p {
+    color: white;
+    font-size: 14px;
+}
+.fotter2 p a:hover {
+    text-decoration: underline;
+}
+
+.fotter2 hr{
+    width: 181.3vh;
+}
